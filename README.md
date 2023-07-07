@@ -40,18 +40,23 @@ Experienced with a wide variety of creative tools and technical skills.
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt = "mysql" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" alt = "mongodb" />
 
+- **Software**
+
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt = "vscode" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Affinity+Photo&color=7E4DD2&logo=Affinity+Photo&logoColor=FFFFFF&label=" alt = "affinityphoto" />
+  <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Affinity+Designer&color=1B72BE&logo=Affinity+Designer&logoColor=FFFFFF&label=" alt = "affinitydesign" />
+
 - **Other**
 
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" alt = "windows" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt = "linux" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt = "git" />
 
-
   </br></br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=realnaith&&theme=radical" alt="realnaith" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realnaith&show_icons=true&locale=en&layout=compact&theme=radical" alt="realnaith" /></p> 
-  
+
 </br></br>
 
 - Social Media
