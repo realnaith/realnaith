@@ -65,6 +65,7 @@ Experienced with a wide variety of creative tools and technical skills.
 <a href="https://discord.com/invite/BgAa5uzPB9"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
 
 </div>
-
+/*
 ------
 credits: [realnaith](https://github.com/realnaith)
+*/
