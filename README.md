@@ -52,14 +52,12 @@ Experienced with a wide variety of creative tools and technical skills.
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=" alt = "linux" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt = "git" />
 
-  </br></br>
+</br></br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=realnaith&&theme=radical" alt="realnaith" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realnaith&show_icons=true&locale=en&layout=compact&theme=radical" alt="realnaith" /></p> 
 
 </br></br>
-
-- Social Media
 
 <a href="https://instagram.com/realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
 <a href="https://twitter.com/realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=" alt="twitter"></a>
@@ -69,4 +67,4 @@ Experienced with a wide variety of creative tools and technical skills.
 </div>
 
 ------
-Credit: [realnaith](https://github.com/realnaith)
+credits: [realnaith](https://github.com/realnaith)
