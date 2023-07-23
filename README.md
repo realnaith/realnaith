@@ -32,9 +32,6 @@ Experienced with a wide variety of creative tools and technical skills.
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" alt = "nestjs" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=" alt = "ruby" />
 
-  - <h5>Currently Learning<h5>
-    <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" alt = "typescript" />
-
 - **Database**
 
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt = "mysql" />
