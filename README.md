@@ -4,7 +4,7 @@
 
 <img align="right" width="270" alt="realnaith" src="https://imgur.com/MAUyCpN.png"/>
 
-<h2> / about me /</h2>
+<h2> / About me /</h2>
   
 Hi, I'm Nenad Petrovic, also known as  **realnaith**.
 <br>
@@ -14,10 +14,7 @@ Experienced with a wide variety of creative tools and technical skills.
 - 🔏 currently working as **Digital Creator**
 - 📨 speak and write Serbian(native) and English.
   
-<h2> / skills / </h2>
-
-
-- **Still Learning**
+<h2> / You can find me here / </h2>
 
 </br></br>
 
