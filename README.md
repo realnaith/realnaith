@@ -16,8 +16,6 @@ Experienced with a wide variety of creative tools and technical skills.
   
 <h2> / You can find me here / </h2>
 
-</br></br>
-
 <a href="https://instagram.com/realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
 <a href="https://twitter.com/realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=" alt="twitter"></a>
 <a href="https://youtube.com/@realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="youtube"></a>
